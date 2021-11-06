@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... <br>
-  마음만 급한 개발자가 되고  비스무리한 머시기,,,
+  마음만 급한 개발자가 되고 싶은 비스무리한 머시기,,,
 - ⚡ Fun fact: ... <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCronople%2Fhit-counter&count_bg=%23D9598C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
